@@ -1,2 +1,2 @@
-# Wav2lip-HQ
+# My colab Collections
 Lip sync
